@@ -1,5 +1,8 @@
-veraPDF-validation
-==================
+veraPDF-validation-x
+> [!WARNING]  
+> This fork makes use of veraPDF's dual-licensing clause and is hereby licensed under the **MPL-2.0**.
+
+---
 *Greenfield PDF/A and PDF/UA validation, feature reporting and metadata repair developed for veraPDF*
 
 [![Build Status](https://jenkins.openpreservation.org/job/veraPDF/job/1.25/job/validation/badge/icon)](https://jenkins.openpreservation.org/job/veraPDF/job/1.25/job/validation/ "OPF Jenkins")
