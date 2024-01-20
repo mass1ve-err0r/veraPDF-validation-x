@@ -28,10 +28,11 @@
   <parent>
     <artifactId>validation</artifactId>
     <groupId>org.verapdf</groupId>
-    <version>1.25.0-SNAPSHOT</version>
+    <version>1.25.99</version>
   </parent>
 
   <artifactId>validation-model</artifactId>
+  <version>1.25.99-SNAPSHOT</version>
 
   <name>veraPDF Validation</name>
   <description>veraPDF PDF/A validation model implementation based on PDF parser.</description>
@@ -48,6 +49,16 @@
     <dependency>
       <groupId>org.verapdf</groupId>
       <artifactId>core</artifactId>
+      <version>1.25.9-SNAPSHOT</version>
+      <!--
+      <scope>system</scope>
+      <systemPath>/Users/saadatbaig/_code/pd_nbs/veraPDF-library-x/core/target/lib.jar</systemPath>
+      -->
+    </dependency>
+    <dependency>
+      <groupId>org.verapdf</groupId>
+      <artifactId>verapdf-xmp-core</artifactId>
+      <version>1.25.9-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.verapdf</groupId>
